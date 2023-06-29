@@ -16,6 +16,14 @@ gitとはバージョン管理システム
 
 ファイルの保存 - ステージングエリア　- ローカルリポジトリにコミット
 ＊ステージングエリアがあるのはLinuxの開発フローによるもの
+【手順】
+1.ファイルを保存(ctl + S)
+2.C:~>git add ファイルパス　# ステージングエリアへ追加
+3.C:~>git commit git
+
 
 # 勉強させて頂いた記事
-・https://qiita.com/jesus_isao/items/63557eba36819faa4ad9
+・君には1時間でGitについて知ってもらう(with VSCode)
+　https://qiita.com/jesus_isao/items/63557eba36819faa4ad9
+・図解！ Gitのブランチ・ツリーをちゃんと読む
+　https://qiita.com/jesus_isao/items/2a0495c973a4c911c2cc
